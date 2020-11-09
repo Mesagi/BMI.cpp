@@ -1,2 +1,2 @@
 #pragma once
-int getObesity(double bmi);
+double getObesity(double bmi);
