@@ -1,9 +1,10 @@
 ﻿#include<iostream>
 #include<string>
+#include"getBmi.h"
+#include"getObesity.h"
 using namespace std;
 //#include "chapter4.h"
-double getBmi(double height, double weight);
-double getObesity(double bmi);
+
 int e;
 int main() {
 	double height;
